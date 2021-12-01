@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Health Management</string>
+    <string name="button">Button</string>
+    <string name="app_title">BMI Caculator</string>
+    <string name="app_height">Height (cm)</string>
+    <string name="app_weight">Weight (kg)</string>
+    <string name="button1">CACULATE BMI</string>
+    <string name="imageView">Health and Workout Image</string>
+    <!--Login and Register-->
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtAge">Age</string>
+    <string name="txtMale">Male</string>
+    <string name="txtFemale">Female</string>
+    <string name="txtLogIn">Login</string>
+    <string name="txtRegisterLink">Don\'t have account? Click to register</string>
+    <string name="txtForgot">Forgot password?</string>
+    <string name="txtRegister">Register</string>
+    <!--Schedule-->
+    <string name="progress">progress</string>
+    <string name="todo">TODO</string>
+    <string name="DaysLeft">15 Days left</string>
+    <!--User Info-->
+    <string name="userImgDescription">user image</string>
+    <string name="txtActivity">Activities</string>
+    <string name="lastBMI">Last BMI</string>
+    <string name="lastExercise">Last Exercise</string>
+    <string name="lastWater">Last Amount of Water</string>
+    <string name="lastSleep">Last Sleep Time</string>
+    <string name="nextSchedule">Next Schedule</string>
+    <string name="bmi">BMI Calculator</string>
+    <string name="exercise">Exercise Tracking</string>
+    <string name="sleep">Sleep Tracking</string>
+    <string name="water">Water Tracking</string>
+    <string name="schedule">Schedule</string>
+    <string name="txtLogout">Logout</string>
+    <!--BMI-->
+    <string name="bmiTitle">BMI Caculator</string>
+    <string name="userHeight">Height (cm)</string>
+    <string name="userWeight">Weight (kg)</string>
+    <string name="btnBMI">CACULATE BMI</string>
+    <!--Exercise-->
+    <string name="exerciseTitle">Exercise Track</string>
+    <string name="time">Time</string>
+    <string name="activity">The exercise Activity</string>
+    <string name="numForTime"></string>
+    <string name="txtForActivity"></string>
+    <string name="saveBtn">Save</string>
+    <string name="txtTime">Time (hour)</string>
+    <string name="exerciseType">Plase enter type of excercise</string>
+    <!--Sleep-->
+    <string name="sleepTitle">Sleep Track</string>
+    <!--Water-->
+    <string name="waterTitle">Water Tracking</string>
+    <string name="amountOfWater">Amount Of Water</string>
+</resources>
